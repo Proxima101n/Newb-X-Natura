@@ -1,4 +1,4 @@
-Name = "Newb Natura"
+name = "Newb Natura"
 version = [0, 16, 53]
 min_supported_mc_version = [1, 26, 30]
 description = '''
@@ -23,4 +23,12 @@ You can compile the shader from source and distribute the result under your own 
 Contact (Discord Server): https://discord.gg/newb-community-844591537430069279
 ''' # %a = authors
 credits = '''
+'''
+
+[[subpack]]
+name = "Default"
+define = "DEFAULT"
+materials = []
+description = '''
+Default settings
 '''
