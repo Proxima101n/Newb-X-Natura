@@ -49,9 +49,9 @@
 #define NL_END_AMBIENT    vec3(1.98,1.25,2.3)
 
 /* Sun/moon light color */
-#define NL_DAWN_SUNLIGHT_COL   vec3(1.0,0.4,0.1)
-#define NL_NOON_SUNLIGHT_COL   vec3(1.0,0.75,0.57)
-#define NL_NIGHT_MOONLIGHT_COL vec3(0.01,0.03,0.2)
+#define NL_DAWN_SUNLIGHT_COL   vec3(1.0, 0.55, 0.35)
+#define NL_NOON_SUNLIGHT_COL   vec3(0.95, 0.95, 1.0)
+#define NL_NIGHT_MOONLIGHT_COL vec3(0.15, 0.25, 0.45)
 
 /* Torch colors */
 #define NL_OVERWORLD_TORCH_COL  vec3(1.4,0.65,0.25)
